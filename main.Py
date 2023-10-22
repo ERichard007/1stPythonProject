@@ -143,6 +143,6 @@ def main():
         else:
             print(f'\n\n\n\n\nYou put in ${StartedWith} and ended up with ${MoneyDeposited}\n\nTotal Won/Lost: ${MoneyDeposited-StartedWith}')
     else:
-        print('\n\n\nOk then...        Bye')
+        print('\n\n\nOk then....        Bye')
 
 main()
